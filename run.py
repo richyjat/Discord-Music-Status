@@ -19,8 +19,8 @@ default_config = "[Config]\ntoken = \nsnip = "
 
 config = configparser.ConfigParser()
 
-token = ""
-snip = ""
+token = "NjI5NTE3MTE5MjIyMTg2MDA2.XZqezg.8bIx1SlNtYB4_QEdXpOh_wM-Q2c"
+snip = "D:\DiNitride\Snip\Snip.txt"
 
 if os.path.exists("config.ini"):
     config.read("config.ini")
